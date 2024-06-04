@@ -4,16 +4,22 @@
 
 This is a responsive landing page built using HTML, CSS, and Tailwind CSS. It includes a navigation bar, hero section, features section, about us section, and footer.
 
+## Demo of LandingPage 
+```
+Users can have direct access using this url
+https://poornima2003.github.io/LangingPage/
+```
+
 ## Instructions to Run the Project Locally
 
 1. Clone the repository to your local machine:
    ``
    `bash
-   git clone https://github.com/Poornima2003/Responsive-LandingPage.git
+   git clone https://github.com/Poornima2003/LangingPage
    ```
 2. Navigate to the project directory:
    ```
-   cd Responsive-LandingPage
+   cd LandingPage
    ```
 ## Design Choices and Libraries Used
 
