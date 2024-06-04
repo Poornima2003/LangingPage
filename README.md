@@ -5,10 +5,11 @@
 This is a responsive landing page built using HTML, CSS, and Tailwind CSS. It includes a navigation bar, hero section, features section, about us section, and footer.
 
 ## Demo of LandingPage 
-```
+``
 Users can have direct access using this url
+
 https://poornima2003.github.io/LangingPage/
-```
+``
 
 ## Instructions to Run the Project Locally
 
